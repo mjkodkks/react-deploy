@@ -1,3 +1,14 @@
+# Getting Started 
+
+## for linux
+```
+sudo chmod +x build_prd.sh
+sudo ./build_prd.sh
+```
+## for windows
+open "build_prd.bat" by administrator
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

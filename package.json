@@ -1,5 +1,5 @@
 {
-  "name": "test-deploy-react",
+  "name": "deploy-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
